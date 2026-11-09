@@ -1,1 +1,1 @@
-Some of
+Some of data science
